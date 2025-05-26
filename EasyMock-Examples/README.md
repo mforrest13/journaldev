@@ -2,7 +2,8 @@
 
 ### EasyMock Tutorials Articles
 
-* [EasyMock Tutorial](https://www.journaldev.com/22193/easymock-tutorial)
+* [EasyMock T
+* utorial](https://www.journaldev.com/22193/easymock-tutorial)
 * [EasyMock Annotations](https://www.journaldev.com/22220/easymock-annotations-junit-4)
 * [EasyMock TestNG Example](https://www.journaldev.com/22200/easymock-testng-example)
 * [EasyMock Exceptions](https://www.journaldev.com/22224/easymock-mock-exceptions)
